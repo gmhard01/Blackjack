@@ -6,6 +6,6 @@ Basic game of Blackjack where one player plays against the dealer (the computer)
 
 2. As a junior programmer, I learned the hard way why it is important to write decoupled and testable code. On an early project, I wrote myself into a corner by having console input/output contained within other methods that implemented logic. When it came time to write unit tests, I realized I was screwed because I depended on console input to assign values to variables that would be involved in testing - not good. Learning from this, I have a ConsoleIO class that handles all console input and output. Maybe not interesting per se, but certainly a point of growth.
 
-3. The dealer (computer opponent) plays using basic Blackjack strategies as well as standard casino rules that I researched which ultimately dictate how its decisions are made. This works well and makes the dealer and fairly formidable opponent. Refer to the methods in the Dealer class and the DealerStrategy method in the Game class to see how this works.
+3. The dealer (computer opponent) plays using basic Blackjack strategies as well as standard casino rules that I researched which ultimately dictate how its decisions are made. This works well and makes the dealer a fairly formidable opponent. Refer to the methods in the Dealer class and the DealerStrategy method in the Game class to see how this works.
 
 4. I have written 30 (passing!) unit tests to ensure functionality works appropriately. 
