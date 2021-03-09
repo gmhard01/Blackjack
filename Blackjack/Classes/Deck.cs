@@ -18,7 +18,6 @@ namespace Blackjack.Classes
         //initialize deck creates standard 52 card deck with suits, ranks, values
         public static List<Card> InitializeDeck()
         {
-
             List<Card> cards = Initialize52Cards();
             InitializeSuits(cards);
             InitializeRanks(cards);

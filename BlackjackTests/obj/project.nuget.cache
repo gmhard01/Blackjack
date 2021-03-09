@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "tr5CwOd+DzvsMGHbO1HRfRK/io59gdg1SPapft8U17XhAFFFQcrxkR22bYSN4hoAN3ZztMzytdLE3Prspxb/xg==",
+  "dgSpecHash": "9Eh4hVhhIqt2+RH9dqmeL4hm0I6QGSbR+3OH0g+EgiPoszr4JthuzfK9phN0BAncVFJfxt+W1KSKT5u3miUGRg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Student\\workspace\\Side Projects\\BlackjackTests\\BlackjackTests.csproj",
+  "projectFilePath": "C:\\Users\\Student\\workspace\\Side Projects\\Blackjack Repo\\BlackjackTests\\BlackjackTests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Student\\.nuget\\packages\\coverlet.collector\\1.2.0\\coverlet.collector.1.2.0.nupkg.sha512",
     "C:\\Users\\Student\\.nuget\\packages\\microsoft.codecoverage\\16.5.0\\microsoft.codecoverage.16.5.0.nupkg.sha512",
