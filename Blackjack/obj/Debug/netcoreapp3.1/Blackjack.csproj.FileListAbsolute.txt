@@ -1,0 +1,26 @@
+C:\Users\Student\source\repos\Blackjack\bin\Debug\netcoreapp3.1\Blackjack.exe
+C:\Users\Student\source\repos\Blackjack\bin\Debug\netcoreapp3.1\Blackjack.deps.json
+C:\Users\Student\source\repos\Blackjack\bin\Debug\netcoreapp3.1\Blackjack.runtimeconfig.json
+C:\Users\Student\source\repos\Blackjack\bin\Debug\netcoreapp3.1\Blackjack.runtimeconfig.dev.json
+C:\Users\Student\source\repos\Blackjack\bin\Debug\netcoreapp3.1\Blackjack.dll
+C:\Users\Student\source\repos\Blackjack\bin\Debug\netcoreapp3.1\Blackjack.pdb
+C:\Users\Student\source\repos\Blackjack\obj\Debug\netcoreapp3.1\Blackjack.csprojAssemblyReference.cache
+C:\Users\Student\source\repos\Blackjack\obj\Debug\netcoreapp3.1\Blackjack.AssemblyInfoInputs.cache
+C:\Users\Student\source\repos\Blackjack\obj\Debug\netcoreapp3.1\Blackjack.AssemblyInfo.cs
+C:\Users\Student\source\repos\Blackjack\obj\Debug\netcoreapp3.1\Blackjack.csproj.CoreCompileInputs.cache
+C:\Users\Student\source\repos\Blackjack\obj\Debug\netcoreapp3.1\Blackjack.dll
+C:\Users\Student\source\repos\Blackjack\obj\Debug\netcoreapp3.1\Blackjack.pdb
+C:\Users\Student\source\repos\Blackjack\obj\Debug\netcoreapp3.1\Blackjack.genruntimeconfig.cache
+C:\Users\Student\workspace\Side Projects\Blackjack\bin\Debug\netcoreapp3.1\Blackjack.exe
+C:\Users\Student\workspace\Side Projects\Blackjack\bin\Debug\netcoreapp3.1\Blackjack.deps.json
+C:\Users\Student\workspace\Side Projects\Blackjack\bin\Debug\netcoreapp3.1\Blackjack.runtimeconfig.json
+C:\Users\Student\workspace\Side Projects\Blackjack\bin\Debug\netcoreapp3.1\Blackjack.runtimeconfig.dev.json
+C:\Users\Student\workspace\Side Projects\Blackjack\bin\Debug\netcoreapp3.1\Blackjack.dll
+C:\Users\Student\workspace\Side Projects\Blackjack\bin\Debug\netcoreapp3.1\Blackjack.pdb
+C:\Users\Student\workspace\Side Projects\Blackjack\obj\Debug\netcoreapp3.1\Blackjack.csprojAssemblyReference.cache
+C:\Users\Student\workspace\Side Projects\Blackjack\obj\Debug\netcoreapp3.1\Blackjack.AssemblyInfoInputs.cache
+C:\Users\Student\workspace\Side Projects\Blackjack\obj\Debug\netcoreapp3.1\Blackjack.AssemblyInfo.cs
+C:\Users\Student\workspace\Side Projects\Blackjack\obj\Debug\netcoreapp3.1\Blackjack.csproj.CoreCompileInputs.cache
+C:\Users\Student\workspace\Side Projects\Blackjack\obj\Debug\netcoreapp3.1\Blackjack.dll
+C:\Users\Student\workspace\Side Projects\Blackjack\obj\Debug\netcoreapp3.1\Blackjack.pdb
+C:\Users\Student\workspace\Side Projects\Blackjack\obj\Debug\netcoreapp3.1\Blackjack.genruntimeconfig.cache
